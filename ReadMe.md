@@ -1,8 +1,5 @@
 # TOTAL QUALITY MANAGEMENT (TQM)
 
-[Understanding Flight Simulator Quality and Compliance Management](https://images.openai.com/static-rsc-4/fkNIJdSEu7Ruy0Xynp8VKLzH86BZ8a6WClUaMlvalmIdbAU6KmMEArFW_v1OqaIm6BnO8_BoWgrP7cZpIpQpM5mbYSTbYgSYw10WD4zebMqCr5KI9-wZTZWV_ed4RsQRcUYdlObfOtlLBNY2xwR-SjMrGZKr4ri3CCayKLjevw0?purpose=inline)
-
-[simutech.com.au](https://www.simutech.com.au/post/understanding-flight-simulator-quality-and-compliance-management?utm_source=chatgpt.com)
 
 ## 1. Introduction to Total Quality Management (TQM)
 
@@ -116,9 +113,7 @@ TQM ensures that products and services consistently meet the required quality st
 
 There are eight important principles of TQM.
 
-[8 Total Quality Management Principles You Must Know](https://images.openai.com/static-rsc-4/ZW2gZEI7-9LUnQ10X2WWcF38PF3Mlg2rHS8Ks9IOOzlAXJsabbleqqSKsI1tw2EBOEjiXD6IxfNQef3NqKzbP0_Z3HnnvDExKMxtOV25iAcGmIF9dqeZ6jPwYQbabKCIAWkVynJSCZVGvjzPrmnxC7GSaF0AoZuasPiGdc2kgvs?purpose=inline)
 
-[edstellar.com](https://www.edstellar.com/blog/total-quality-management-principles?utm_source=chatgpt.com)
 
 ### 1. Customer Focus
 
@@ -260,10 +255,6 @@ PDCA stands for:
 
 It is also called the Deming Cycle or Shewhart Cycle.
 
-[What is PDCA and why is it important for continuous improvement? | Numero Uno (Training, Inspection and Consultancy) posted on the topic | LinkedIn](https://images.openai.com/static-rsc-4/iR7NMHEaWLgiEuGcjAK0n9W_XPF1NtrCxyFmp5cNV3JbA6Hm-3YlTdJCvgqHVX855s8nZpFVfAuuuBeqZAUfdiQAoO_OSeT2SXe8y7ss2GYTc1G91GT0FgMpdFVwhKQWt_ew5Emak6lfTkIzpNl3iVgaCFh1ko50gjrFoNLitck?purpose=inline)
-
-[linkedin.com](https://www.linkedin.com/posts/nutc_pdca-qualitymanagement-continuousimprovement-activity-7395170342710956032-XHx6?utm_source=chatgpt.com)
-
 ### 1. Plan
 
 In this stage, the organization identifies a problem and plans how to improve quality.
@@ -322,9 +313,7 @@ Important: The PDCA cycle is repeated continuously to achieve better quality.
 
 There are seven basic quality control tools used to identify, analyze, and solve quality-related problems.
 
-[Learn the 7 QC Tools for Quality Improvement | Ahmed Elattar posted on the topic | LinkedIn](https://images.openai.com/static-rsc-4/xxzcgqhq2f0uOfHMmW-TLdZP6OBhwoQnUhso25z71hQkUbC6ct-Ivc4JrhGBM60HlXddzss20AAPfatNopV5wiPmwbSPh6xWhIKSKs4W9xBkjvWbWeOXPg_CEvzHZByKIoYCitV9ckUKlNkkOeo1FPBMmVH9PaugMNZG9OkTp1A?purpose=inline)
 
-[linkedin.com](https://www.linkedin.com/posts/ahmed-elattar-22a41b146_7-qc-tools-the-foundation-of-quality-improvement-activity-7387709874727587841-XT1C?utm_source=chatgpt.com)
 
 ### 1. Check Sheet
 
